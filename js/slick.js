@@ -11,7 +11,7 @@
  Website: http://kenwheeler.github.io
     Docs: http://kenwheeler.github.io/slick
     Repo: http://github.com/kenwheeler/slick - mybranch
-  Issues: http://github.com/kenwheeler/slick/issues
+  Issues: http://github.com/kenwheeler/slick/issues - develop issues
 
  */
 /* global window, document, define, jQuery, setInterval, clearInterval */
