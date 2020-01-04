@@ -10,7 +10,7 @@
   Author: Ken Wheeler12
  Website: http://kenwheeler.github.io
     Docs: http://kenwheeler.github.io/slick
-    Repo: http://github.com/kenwheeler/slick
+    Repo: http://github.com/kenwheeler/slick - mybranch
   Issues: http://github.com/kenwheeler/slick/issues
 
  */
